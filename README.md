@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **kn3629@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny 😁**
+- ⚡ Fun fact **I think I am very shy
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

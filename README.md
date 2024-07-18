@@ -1,7 +1,6 @@
 # Krish03.github.io
 <h1 align="center">Hi 👋, I'm Krish Nagpal</h1>
 <h3 align="center">Want to become a passionate Mechanical Engineer</h3>
-<img align="right" alt="machine" width="400" src"https://www.pinterest.com/pin/79446380921915057/">
 <h3 align="center">I m now pursuing Mechanical Engineering at GNDEC, Ludhiana</h3>
 - 🌱 I’m currently learning **About GitHub, Excel, little bit about coding .**
 
